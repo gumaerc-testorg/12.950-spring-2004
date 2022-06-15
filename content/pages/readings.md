@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides a bibliography of useful and relevant texts for
+  the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 03f5aa4c-2226-6d13-da8f-c421c41a6552
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 There is no course textbook but some useful and relevant texts are listed below.

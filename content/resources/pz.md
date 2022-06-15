@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/c95bbb54651601a0f15f82c5c85aa61e_pz.m
+file: /courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/c95bbb54651601a0f15f82c5c85aa61e_pz.m
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,8 @@ parent_uid: 099e401c-a3ad-e2c3-393e-e03f278ab207
 resourcetype: Other
 title: pz.m
 uid: c95bbb54-6516-01a0-f15f-82c5c85aa61e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,7 @@ file: /courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/34edbf4c0a300
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

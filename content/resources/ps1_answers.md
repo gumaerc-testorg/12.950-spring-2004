@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/809e3aa2995981968249c7c0f9df97d7_ps1_answers.pdf
+file_size: 259564
 file_type: application/pdf
 learning_resource_types:
 - Assignments

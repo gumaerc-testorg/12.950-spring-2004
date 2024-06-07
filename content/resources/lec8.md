@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/fe901db790b36bc93b47bc24f37c1b5c_lec8.pdf
+file_size: 245678
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

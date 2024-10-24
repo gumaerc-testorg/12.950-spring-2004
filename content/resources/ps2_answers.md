@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/34edbf4c0a300cd656b365d640025632_ps2_answers.pdf
+file: /ol-ocw-studio-app/courses/12-950-atmospheric-and-oceanic-modeling-spring-2004/34edbf4c0a300cd656b365d640025632_ps2_answers.pdf
 file_size: 190217
 file_type: application/pdf
 learning_resource_types:

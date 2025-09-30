@@ -27,4 +27,4 @@ Kantha, Lakshmi H. _Numerical Models of Oceans and Oceanic Processes._ Academic 
 
 Pedlosky, Joseph. _Ocean Circulation Theory._ New York, NY: Springer; 1st ed. Corr. 2nd printing edition, 2004. ISBN: 9783540604891.
 
-A handy quick-reference for some methods is [Numerical Recipes on-line](http://numerical.recipes/).
+A handy quick-reference for some methods is {{% resource_link "37e7e8bb-477d-4a31-a15c-bd7f6568bde9" "Numerical Recipes on-line" %}}.
